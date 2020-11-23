@@ -1,5 +1,5 @@
 # Read_Only_Pdf_Downloader
-step 1:
+step 1:/n
 first go to google crome click 3 dot menu on the top then press to more tools
 step 2:
 select developer tools
